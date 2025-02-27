@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krisselack
-- 👀 I’m interested in Data Science, namely: Python, R and SQL. 
+- 👀 I am a passionate Data Scientist using mainly Python, SQL and R. 
 - 📫 How to reach me bran.chri@gmail.com
 
 <!---
